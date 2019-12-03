@@ -1,4 +1,4 @@
 xvfb
 emacs
 wget
-default-jdk
+openjdk-8-jdk
