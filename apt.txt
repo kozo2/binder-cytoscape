@@ -1,3 +1,4 @@
 xvfb
 emacs
 wget
+default-jdk
