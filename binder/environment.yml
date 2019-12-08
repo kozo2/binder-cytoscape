@@ -1,0 +1,9 @@
+channels:
+- spyder-ide
+- manics # Used by jupyter-desktop-server
+dependencies:
+# Required for jupyter-desktop-server
+- websockify
+- pip:
+    - jupyter-desktop-server
+    
