@@ -1,4 +1,0 @@
-xvfb
-emacs
-wget
-openjdk-8-jdk
