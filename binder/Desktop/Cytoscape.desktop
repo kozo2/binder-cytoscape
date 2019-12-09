@@ -2,5 +2,5 @@
 Version=1.0
 Type=Application
 Name=Cytoscape 3.7.2
-Exec=/bin/bash -c "exec ${HOME}/cytoscape-unix-3.7.2/cytoscape.sh"
+Exec=gnome-terminal -e "bash ${HOME}/cytoscape-unix-3.7.2/cytoscape.sh"
 Path=/home/jovyan/Desktop
