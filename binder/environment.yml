@@ -6,3 +6,4 @@ dependencies:
 - websockify
 - pip:
     - jupyter-desktop-server
+    - py2cytoscape
