@@ -6,4 +6,5 @@ dependencies:
 - websockify
 - pip:
     - jupyter-desktop-server
-    
+    - pandas
+    - py2cytoscape
