@@ -10,3 +10,4 @@ libpci3
 libasound2
 wget
 openjdk-8-jdk
+libopenblas-dev
