@@ -5,9 +5,7 @@ xfce4-session
 xfce4-settings
 xorg
 xubuntu-icon-theme
-libxss1
-libpci3
-libasound2
 wget
 openjdk-8-jdk
 libopenblas-dev
+R-base
