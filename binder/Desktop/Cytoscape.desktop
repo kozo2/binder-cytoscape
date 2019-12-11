@@ -1,5 +1,0 @@
-[Desktop Entry]
-Name=Cytoscape 3.7.2
-Exec=xdg-open /home/jovyan/cytoscape-unix-3.7.2
-Icon=folder
-Type=Application
