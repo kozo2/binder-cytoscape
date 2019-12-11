@@ -2,8 +2,8 @@
 
 set -euo pipefail
 
-cp -r binder/Desktop ${HOME}/Desktop
-
 wget https://github.com/cytoscape/cytoscape/releases/download/3.7.2/cytoscape-3.7.2.tar.gz
 tar xf cytoscape-3.7.2.tar.gz
 rm cytoscape-3.7.2.tar.gz
+mv cytoscape-unix-3.7.2 /home/jovyan/Desktop
+chown -R jovyan:jovyan /home/jovyan/Desktop/cytoscape-unix-3.7.2
