@@ -8,4 +8,3 @@ xubuntu-icon-theme
 wget
 openjdk-8-jdk
 libopenblas-dev
-R-base
